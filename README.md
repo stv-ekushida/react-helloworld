@@ -1,4 +1,4 @@
-### Node.jsのインストール
+### 1.Node.jsのインストール
 
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash
@@ -11,7 +11,7 @@ nvm install v7.10
 node -v
 ```
 
-### プロジェクトの作り方
+### 2. プロジェクトの作り方
 
 #### ①プロジェクトを開始する
 
